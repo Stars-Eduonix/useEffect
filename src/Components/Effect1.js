@@ -9,7 +9,7 @@ const Effect1 = () => {
         // document.title = `Coins Prices`
         document.title = `Gold: ${gold} Silver: ${silver} Bronze: ${bronze}`
         console.log("I am rendered")
-     }, [gold, silver])
+     }, [gold, silver] )
 
 
     

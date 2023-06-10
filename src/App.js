@@ -1,5 +1,6 @@
 import React from "react";
 import Effect1 from "./Components/Effect1";
+import LiveSearch from "./Components/LiveSearch";
 
 
 
@@ -9,7 +10,8 @@ const App = () => {
     return(
         <div>
 
-            <Effect1 />
+            {/* <Effect1 /> */}
+            <LiveSearch />
 
         </div>
     )

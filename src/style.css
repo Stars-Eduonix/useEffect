@@ -1,0 +1,14 @@
+
+.actors{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.actors p{
+     background-color: black;
+     color: white;
+        padding: 10px;
+        border-radius: 10px;
+        margin: 10px;
+        border: 1px solid green
+}
